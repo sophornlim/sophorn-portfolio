@@ -4,9 +4,9 @@ function About() {
   return (
     <div className="max-w-5xl mx-auto px-6 py-20 md:flex md:items-center md:space-x-12">
       <img
-        src="/me.jpeg"
+        src="/me.jpg"
         alt="Sophorn Lim"
-        className="w-full max-w-[150px] sm:max-w-[180px] md:max-w-[220px] object-cover aspect-square rounded-full mx-auto mb-6 shadow-lg"
+        className="w-full max-w-[150px] sm:max-w-[180px] md:max-w-[220px] object-cover aspect-square rounded-full mx-auto mb-6 shadow-lg" 
       />
       <div>
         <h2 className="text-3xl font-semibold text-cyan-400 mb-4">About Me</h2>
